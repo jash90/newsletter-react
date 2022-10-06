@@ -27,7 +27,7 @@
 		"react-native-prompt": "^1.0.0",
 		"react-native-router-flux": "^3.40.1",
 		"react-native-webview-autoheight": "^1.0.4",
-		"react-native-windows": "^0.45.0-rc.1",
+		"react-native-windows": "^0.70.2",
 		"react-navigation": "^1.0.0-beta.11",
 		"redux": "^3.7.1"
 	},
