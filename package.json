@@ -13,7 +13,7 @@
 		"isomorphic-fetch": "^2.2.1",
 		"native-base": "^2.2.0",
 		"react": "16.0.0-alpha.12",
-		"react-native": "0.45.1",
+		"react-native": "0.70.6",
 		"react-native-action-bar": "^2.0.2",
 		"react-native-code-push": "^3.0.0-beta",
 		"react-native-default-preference": "^1.1.1",
@@ -32,11 +32,11 @@
 		"redux": "^3.7.1"
 	},
 	"devDependencies": {
-		"babel-jest": "20.0.3",
+		"babel-jest": "29.3.1",
 		"babel-preset-react-native": "2.0.0",
 		"eslint": "^4.1.1",
 		"eslint-plugin-react": "^7.1.0",
-		"jest": "20.0.4",
+		"jest": "29.3.1",
 		"react-test-renderer": "16.0.0-alpha.12",
 		"rnpm-plugin-windows": "^0.2.6"
 	},
